@@ -1,0 +1,9 @@
+node_modules
+playwright
+playwright-report
+test-results
+
+.DS_STORE
+.env
+
+2fa.test.mjs
